@@ -1,0 +1,12 @@
+{
+  "name": "typesmith-mixtape",
+  "version": "1.0.0",
+  "description": "Runs mixtape to generate an HTML reference from the typesmith database.",
+  "main": "./lib/typesmith-mixtape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robb Surridge",
+  "license": "MIT",
+  "dependencies": {}
+}
