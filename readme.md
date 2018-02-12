@@ -6,7 +6,9 @@ You'll usually want to put this at the end of your typesmith pipeline, so that y
 
 ## Options
 
-none
+None, but whatever you options you provide will be passed along to mixtape in its `options` parameter.
+
+So, for example, you could include an `output` setting in your config, which would get passed along to mixtape to control the destination folder for its HTML files; or a `static` parameter to specify static files like images that you want to add into your output. See the [mixtape readme](https://www.github.com/bbor/mixtape) for details.
 
 ## Usage
 
