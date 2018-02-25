@@ -8,5 +8,7 @@
   },
   "author": "Robb Surridge",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "merge-options": "^1.0.0"
+  }
 }
